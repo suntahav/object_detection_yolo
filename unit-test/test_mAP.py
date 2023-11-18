@@ -2,7 +2,7 @@ from unittest import TestCase
 import unittest
 import sys
 
-sys.path.append("C:\\Users\\sands\\PycharmProjects\\ObjectDetection\\mAP.py")
+sys.path.append("path to map.py")
 from mAP import mean_average_precision
 
 class TestMeanAveragePrecision(unittest.TestCase):

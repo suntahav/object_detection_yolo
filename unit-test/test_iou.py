@@ -3,7 +3,7 @@ import unittest
 import torch
 import sys
 
-sys.path.append("C:\\Users\\sands\\PycharmProjects\\ObjectDetection\\iou.py")
+sys.path.append("path to iou.py")
 
 from iou import intersection_over_union
 

@@ -2,7 +2,7 @@ from unittest import TestCase
 import unittest
 import sys
 
-sys.path.append("C:\\Users\\sands\\PycharmProjects\\ObjectDetection\\nms.py")
+sys.path.append("path to nms.py")
 from nms import nms
 
 class Test(TestCase):
